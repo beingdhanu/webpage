@@ -18,8 +18,7 @@ h2,
 .black {
     color: #180101;
 }
-p,
-.black{
+p {
     color: black;
 }
 a {
@@ -40,7 +39,6 @@ a {
     font-size: 1.1rem;
     padding-bottom: 10px;
     margin: 0;
-    color: black;
 }
 
 .section-1 h2 {
