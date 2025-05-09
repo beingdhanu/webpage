@@ -18,7 +18,8 @@ h2,
 .black {
     color: #180101;
 }
-p {
+p,
+.black{
     color: black;
 }
 a {
