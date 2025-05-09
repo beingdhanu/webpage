@@ -81,7 +81,7 @@ a {
 
 .section-2 a:hover {
     font-size: 1.3rem;
-    color: #fff;
+    color: #ffffff;
     cursor: pointer;
     transition: 0.2s;
 }
@@ -92,7 +92,7 @@ a {
     transition: 0.3s;
 }
 
-.white:hover {
+.blue.hover {
     position: relative;
     padding-left: 10px;
 }
