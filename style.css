@@ -771,10 +771,6 @@ img {
   color: var(--portfolio-blue);
 }
 
-.info-label i {
-  margin-right: 8px;  /* Adds space between icon and text */
-  color: #0077cc;     /* Color of the icon */
-}
 
 .form-group {
   margin-bottom: 1rem;
